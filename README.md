@@ -47,5 +47,4 @@ My journey in finance and my passion for technology has led me to develop a pass
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/hnunez842/PenTest-on-Linux/blob/8c0ea678efa9a01600f4744784e56b85a697546d/README.md">Penetration Test Report</a>
