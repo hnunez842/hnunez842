@@ -13,7 +13,7 @@ My journey in finance and my passion for technology has led me to develop a pass
 |-----------------------------------------------|----------------------------|
 | Penetration Test Report          | <a href="https://github.com/hnunez842/PenTest-on-Linux/blob/8c0ea678efa9a01600f4744784e56b85a697546d/README.md">Project</a>|
 | Splunk Network Monitoring        | <a href="https://github.com/hnunez842/Splunk-Network-Monitoring/tree/main">Project</a>|
-| Python PortScanner               | SOC Automation Lab|
+| Python PortScanner               | <a href="https://github.com/hnunez842/Python-PortScanner/blob/76dfc44608f5ee19466794e3a52eb6d25d1329de/README.md">Project</a>|
 
 ## Tools
 
@@ -48,3 +48,4 @@ My journey in finance and my passion for technology has led me to develop a pass
 ## Projects
 - <a href="https://github.com/hnunez842/PenTest-on-Linux/blob/8c0ea678efa9a01600f4744784e56b85a697546d/README.md">Penetration Test Report</a>
 - <a href="https://github.com/hnunez842/Splunk-Network-Monitoring/tree/main">Splunk Network Monitoring</a>
+- <a href="https://github.com/hnunez842/Python-PortScanner/blob/76dfc44608f5ee19466794e3a52eb6d25d1329de/README.md">Python PortScanner</a>
