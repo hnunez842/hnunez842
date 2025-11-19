@@ -8,7 +8,6 @@ I am a recent graduate with a profound interest in cybersecurity and extensive k
 My journey in finance and my passion for technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically as a cybersecurity analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
